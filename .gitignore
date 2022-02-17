@@ -1,1 +1,3 @@
+.gitignore
+test_*
 .ipynb_checkpoints
